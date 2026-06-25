@@ -18,10 +18,10 @@ This is a simple FAQ Chatbot built using Python. The chatbot answers user questi
       
 2. Technologies Used
 
-1) Python
-2) Pandas
-3) NLTK
-4) Scikit-learn
+   1) Python
+   2) Pandas
+   3) NLTK
+   4) Scikit-learn
 
 
 3. Project Structure
