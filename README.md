@@ -46,14 +46,12 @@ This is a simple FAQ Chatbot built using Python. The chatbot answers user questi
       
 8. Example
    
-   You: What is AI?
+   -You: What is AI?
+   -Bot: AI stands for Artificial Intelligence.
 
-   Bot: AI stands for Artificial Intelligence.
 
-
-   You: Who can join this course?
-
-   Bot: Anyone interested in AI including beginners and professionals.
+   -You: Who can join this course?
+   -Bot: Anyone interested in AI including beginners and professionals.
 
    
 Author:
