@@ -6,16 +6,12 @@ This is a simple FAQ Chatbot built using Python. The chatbot answers user questi
 1. Features
 
    1) Loads FAQ data from CSV file
-
    2) Uses NLP techniques for text preprocessing
-
    3) TF-IDF vectorization for text conversion
-
    4) Cosine similarity to find best matching answer
-
    5) Simple command-line chatbot interface
-  
-      
+
+   
 2. Technologies Used
 
    1) Python
