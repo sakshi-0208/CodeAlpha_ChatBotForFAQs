@@ -53,7 +53,7 @@ This is a simple FAQ Chatbot built using Python. The chatbot answers user questi
     4) Finds the most similar FAQ using cosine similarity
 
     5) Returns the best matching answer
-    6) 
+       
       
 8. Example
    
