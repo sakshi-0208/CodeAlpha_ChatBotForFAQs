@@ -28,12 +28,9 @@ This is a simple FAQ Chatbot built using Python. The chatbot answers user questi
 4. How to Run the Project
    
    1) Download or clone the project folder
-
    2) Open terminal in the project folder
- 
    3) Install required libraries using command:
       pip install pandas nltk scikit-learn
-
    4) Run the chatbot using command:
       python FAQChatbot.py
       
@@ -41,13 +38,9 @@ This is a simple FAQ Chatbot built using Python. The chatbot answers user questi
  6. How it Works
     
     1) User enters a question
-
     2) System preprocesses the text
-
     3) Converts text into numerical vectors (TF-IDF)
-
     4) Finds the most similar FAQ using cosine similarity
-
     5) Returns the best matching answer
        
       
